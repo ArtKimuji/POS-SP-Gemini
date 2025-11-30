@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SwiftPOS Local",
+  "description": "A comprehensive, lightweight Point of Sale system designed for small businesses. Features local data persistence, inventory tracking, tax invoice generation, and sales reporting. Built as a responsive SPA.",
+  "requestFramePermissions": []
+}
